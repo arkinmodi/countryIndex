@@ -10,4 +10,6 @@ This will prompt you to input a country. It will return the name, area code, con
 
 This will prompt you to input a continent. It will return with a list of all the countries in that continent.
 
-Credits to [Annexare Studio](https://github.com/annexare) for the continents.json, countries.json, and languages.json.
+
+
+> Credits to [Annexare Studio](https://github.com/annexare) for the continents.json, countries.json, and languages.json.
